@@ -1,0 +1,2 @@
+# tokenomics
+Hoodinals Tokenomics Data
